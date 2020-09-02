@@ -15,7 +15,8 @@ print("platform:", sys.platform)
 
 # Print out the version of Python you're using:
 # YOUR CODE HERE
-print("python version:", sys.version)
+print("python sys.version:", sys.version)
+print("python sys.version_info:", sys.version_info)
 
 
 import os
